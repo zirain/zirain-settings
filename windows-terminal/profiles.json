@@ -14,8 +14,10 @@
             "guid": "{55dde7a4-524f-43aa-a9c2-5a78c51eef3c}",
             "name": "Git Bash",
             "commandline": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "icon" : "C:\\Program Files\\Git\\mingw64\\share\\git\\git-for-windows.ico",
             "fontFace": "Cascadia Code",
             "startingDirectory": "%USERPROFILE%\\source",
+            "useAcrylic": true,
             "hidden": false
         },
         {
